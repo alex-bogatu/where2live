@@ -11,7 +11,7 @@ Clone the repository, decide on your countries of interest and indicators and yo
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ### Data
-Data availabe here as a zip file (input.zip). Full data (and code) can be accessed [here](https://www.kaggle.com/alexbogatu/where2live/).
+Full data (and code) can be accessed [here](https://www.kaggle.com/alexbogatu/where2live/).
 
 ## Project Motivation
 
