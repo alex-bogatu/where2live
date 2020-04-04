@@ -10,6 +10,9 @@ Clone the repository, decide on your countries of interest and indicators and yo
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
+### Data
+Data (and code) can be accessed [here](https://www.kaggle.com/alexbogatu/where2live/)
+
 ## Project Motivation
 
 For this exercise I was interested to see what data is available for comparing different countries in terms of how livable they are and what insights can be extracted from the that data. The short analysis present in this repo is far from complete but it can hopefully serve as a good start in objectively comparing different countries for whatever reasons. 
