@@ -21,7 +21,7 @@ There is a single file (a Jupyter Notebook) that contains the code used to analy
 ## Results 
 
 The results of the code are presented inline as graphs. 
-A brief discussion on the results can be found here.
+A brief discussion on the results can be found [here](https://medium.com/@alexteodor/objectively-choosing-where-to-live-2c505885fd6b).
 
 ## Licensing, Authors, Acknowledgements
 
